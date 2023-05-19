@@ -10,5 +10,6 @@ Kota = "jawatengah"
 print("Nama Lengkap  :",nama)
 print("Alamat        :",alamat, "\n                Kota ", Kota)
 print("Hobi          :", hobi)
+print("Ini update perubahan");
 
 print ("=======================================")
