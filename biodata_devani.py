@@ -8,7 +8,7 @@ alamat = "Desa Karyasari, Pupuan"
 Kota = "Tabanan"
 Propinsi = "Bali"
 
-print("Nama Lengkap  :",nama)
+print("Nama Lengkap  :",nama---)
 print("Alamat        :",alamat, "\n                Kota ", Kota,"Propinsi", Propinsi)
 print("Hobi          :", hobi)
 
