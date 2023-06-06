@@ -5,11 +5,11 @@ print ("=======================================")
 nama = "Programmer"
 hobi = "ngoding"
 alamat = "salatiga"
-Kota = "jawatengah"
+Kota = "jawa tengah"
 
 print("Nama Lengkap  :",nama)
 print("Alamat        :",alamat, "\n                Kota ", Kota)
 print("Hobi          :", hobi)
-print("Ini update perubahan");
+print("Ini update perubahan")
 
 print ("=======================================")
