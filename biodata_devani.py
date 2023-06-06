@@ -5,6 +5,8 @@ print ("=======================================")
 nama = "Ni Luh Putu Devani Pramita Dewi"
 hobi = "Jalan-jalan"
 alamat = "Desa Karyasari, Pupuan"
+
+
 Kota = "Tabanan"
 Propinsi = "Bali"
 
