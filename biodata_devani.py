@@ -1,4 +1,4 @@
-print ("=======================================")
+print ("Uji Coba")
 print ("Program Biodata Sederhana Dengan Python")
 print ("=======================================")
  
