@@ -1,6 +1,7 @@
 print ("=======================================")
 print ("Program Biodata Sederhana Dengan Python")
 print ("=======================================")
+print ("=======================================")
  
 nama = "Programmer"
 hobi = "ngoding"
