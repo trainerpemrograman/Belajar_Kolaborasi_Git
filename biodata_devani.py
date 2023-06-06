@@ -6,7 +6,7 @@ nama = "Ni Luh Putu Devani Pramita Dewi"
 hobi = "Jalan-jalan"
 alamat = "Desa Karyasari, Pupuan"
 
-
+>>>>master
 Kota = "Tabanan"
 Propinsi = "Bali"
 
