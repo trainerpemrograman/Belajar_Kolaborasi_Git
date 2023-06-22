@@ -16,5 +16,6 @@ print("Alamat        :",alamat, "\n                Kota ", Kota, "Propinsi ",Pro
 print("Hobi          :", hobi)
 
 print ("Selamat Datang di",nama )
+print("Ini perubahan biodata gamelab")
 print ("=======================================")
 print ("dika")
