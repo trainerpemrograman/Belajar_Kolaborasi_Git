@@ -14,3 +14,5 @@ print("Hobi          :", hobi)
 print("Ini update perubahan")
 
 print ("=======================================")
+
+print("ini catatan update lagi")
