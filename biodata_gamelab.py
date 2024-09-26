@@ -18,4 +18,5 @@ print("Hobi          :", hobi)
 print ("Selamat Datang di",nama )
 print("Ini perubahan biodata gamelab")
 print ("=======================================")
- 
+print ("piyoooooo")
+
